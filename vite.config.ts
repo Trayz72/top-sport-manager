@@ -11,7 +11,7 @@ export default defineConfig({
   vite: {
     server: {
       allowedHosts: [
-        "top-sports-manager-digital-sense-solution.onrender.com"
+        "top-sports-manager-digital-sense.onrender.com"
       ]
     }
   },
